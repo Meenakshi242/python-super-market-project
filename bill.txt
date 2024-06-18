@@ -1,0 +1,8 @@
+Date: 2024-06-18 18:06:14.830214
+Day: Tuesday
+Month: June
+BILL SUMMARY:
+
+Discount (10%): Rs.355.90
+GST (12%): Rs.384.37
+Total cost (including GST): Rs.3587.47
